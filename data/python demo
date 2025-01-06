@@ -1,0 +1,4 @@
+a=float("enter the number:")
+b=float("enter the number:")
+sum_result=a+b
+print("the sum is:",sum_result)
