@@ -3,7 +3,7 @@
 Interactive visualization and -exploration tool for large family trees.
 
 
-[Live example here.](https://rawcdn.githack.com/BenPortner/js_family_tree/31118b43b0933e8ff1f3210e32ae9e9d347da365/familytree.html) (Kudos to [Pavel Puchkin](https://neoascetic.me/) from [githack.com](https://raw.githack.com/) for providing the caching proxy!)
+[Live example here.](https://rawcdn.githack.com/js_family_tree/31118b43b0933e8ff1f3210e32ae9e9d347da365/familytree.html) ](https://neoascetic.me/) from [githack.com](https://raw.githack.com/) for providing the caching proxy!)
 
 [JSFiddle here.](https://jsfiddle.net/BenPortner/6mnt1wy4/18/)
 
